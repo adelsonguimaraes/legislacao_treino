@@ -1,0 +1,1122 @@
+[
+    {
+        "pergunta": "Qual é a velocidade máxima permitida para veículos em vias urbanas, salvo sinalização em contrário?",
+        "alternativa_a": "40 km/h",
+        "alternativa_b": "60 km/h",
+        "alternativa_c": "80 km/h",
+        "alternativa_correta": "B",
+        "categoria": "Velocidade"
+    },
+    {
+        "pergunta": "Qual é a penalidade para dirigir sob a influência de álcool?",
+        "alternativa_a": "Multa e suspensão da CNH",
+        "alternativa_b": "Apenas multa",
+        "alternativa_c": "Apenas advertência",
+        "alternativa_correta": "A",
+        "categoria": "Álcool e Direção"
+    },
+    {
+        "pergunta": "O que deve fazer o condutor ao se deparar com uma placa de 'PARE'?",
+        "alternativa_a": "Reduzir a velocidade e seguir",
+        "alternativa_b": "Parar completamente o veículo",
+        "alternativa_c": "Acelerar rapidamente",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a idade mínima para obter a CNH na categoria B?",
+        "alternativa_a": "16 anos",
+        "alternativa_b": "18 anos",
+        "alternativa_c": "21 anos",
+        "alternativa_correta": "B",
+        "categoria": "Documentação"
+    },
+    {
+        "pergunta": "O que significa a luz amarela do semáforo?",
+        "alternativa_a": "Siga com cautela",
+        "alternativa_b": "Pare, a luz vermelha está prestes a acender",
+        "alternativa_c": "Acelere para passar antes que mude",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a documentação obrigatória para dirigir um veículo?",
+        "alternativa_a": "CNH e CRLV",
+        "alternativa_b": "CNH e comprovante de residência",
+        "alternativa_c": "CNH e carteira de identidade",
+        "alternativa_correta": "A",
+        "categoria": "Documentação"
+    },
+    {
+        "pergunta": "O que deve fazer o condutor ao avistar uma faixa de pedestres?",
+        "alternativa_a": "Acelerar para passar rapidamente",
+        "alternativa_b": "Reduzir a velocidade e dar preferência aos pedestres",
+        "alternativa_c": "Ignorar, pois a preferência é dos veículos",
+        "alternativa_correta": "B",
+        "categoria": "Pedestres"
+    },
+    {
+        "pergunta": "Qual é a penalidade para estacionar em local proibido?",
+        "alternativa_a": "Multa e remoção do veículo",
+        "alternativa_b": "Apenas multa",
+        "alternativa_c": "Apenas advertência",
+        "alternativa_correta": "A",
+        "categoria": "Estacionamento"
+    },
+    {
+        "pergunta": "O que é necessário para transportar crianças menores de 10 anos?",
+        "alternativa_a": "Cadeirinha ou assento de elevação",
+        "alternativa_b": "Nada, desde que estejam no banco traseiro",
+        "alternativa_c": "Apenas o cinto de segurança",
+        "alternativa_correta": "A",
+        "categoria": "Crianças e Segurança"
+    },
+    {
+        "pergunta": "Qual é a função do DPVAT?",
+        "alternativa_a": "Cobrir danos materiais em acidentes",
+        "alternativa_b": "Cobrir danos pessoais causados por acidentes de trânsito",
+        "alternativa_c": "Cobrir despesas médicas em caso de doença",
+        "alternativa_correta": "B",
+        "categoria": "Seguro"
+    },
+    {
+        "pergunta": "Qual é a distância mínima que deve ser mantida ao ultrapassar um ciclista?",
+        "alternativa_a": "1 metro",
+        "alternativa_b": "1,5 metros",
+        "alternativa_c": "2 metros",
+        "alternativa_correta": "B",
+        "categoria": "Ciclistas"
+    },
+    {
+        "pergunta": "O que deve fazer o condutor ao ouvir a sirene de um veículo de emergência?",
+        "alternativa_a": "Acelerar para sair do caminho",
+        "alternativa_b": "Manter a velocidade e não mudar de faixa",
+        "alternativa_c": "Reduzir a velocidade e dar passagem",
+        "alternativa_correta": "C",
+        "categoria": "Veículos de Emergência"
+    },
+    {
+        "pergunta": "Qual é a penalidade para não usar o cinto de segurança?",
+        "alternativa_a": "Multa e pontos na CNH",
+        "alternativa_b": "Apenas multa",
+        "alternativa_c": "Apenas advertência",
+        "alternativa_correta": "A",
+        "categoria": "Segurança"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido Estacionar'?",
+        "alternativa_a": "Pode estacionar por até 15 minutos",
+        "alternativa_b": "Não pode estacionar em nenhum momento",
+        "alternativa_c": "Pode estacionar apenas à noite",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a idade mínima para uma criança viajar no banco da frente?",
+        "alternativa_a": "10 anos",
+        "alternativa_b": "12 anos",
+        "alternativa_c": "14 anos",
+        "alternativa_correta": "A",
+        "categoria": "Crianças e Segurança"
+    },
+    {
+        "pergunta": "O que deve ser feito em caso de acidente com vítimas?",
+        "alternativa_a": "Remover as vítimas do local imediatamente",
+        "alternativa_b": "Sinalizar o local e acionar o socorro",
+        "alternativa_c": "Deixar o local para evitar congestionamento",
+        "alternativa_correta": "B",
+        "categoria": "Emergências"
+    },
+    {
+        "pergunta": "Qual é a penalidade para dirigir sem a CNH?",
+        "alternativa_a": "Multa e apreensão do veículo",
+        "alternativa_b": "Apenas multa",
+        "alternativa_c": "Apenas advertência",
+        "alternativa_correta": "A",
+        "categoria": "Documentação"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Dê a preferência'?",
+        "alternativa_a": "O condutor deve parar completamente",
+        "alternativa_b": "O condutor deve ceder a passagem",
+        "alternativa_c": "O condutor pode seguir sem parar",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a velocidade máxima permitida em rodovias para veículos de passeio?",
+        "alternativa_a": "80 km/h",
+        "alternativa_b": "100 km/h",
+        "alternativa_c": "120 km/h",
+        "alternativa_correta": "C",
+        "categoria": "Velocidade"
+    },
+    {
+        "pergunta": "O que é necessário para renovar a CNH?",
+        "alternativa_a": "Apenas pagar a taxa",
+        "alternativa_b": "Realizar exames médicos e psicológicos",
+        "alternativa_c": "Fazer um novo curso de direção",
+        "alternativa_correta": "B",
+        "categoria": "Documentação"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Curva à esquerda'?",
+        "alternativa_a": "Curva acentuada à esquerda",
+        "alternativa_b": "Curva suave à esquerda",
+        "alternativa_c": "Curva em S à esquerda",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a primeira ação a ser tomada ao prestar primeiros socorros em um acidente de trânsito?",
+        "alternativa_a": "Remover a vítima do veículo",
+        "alternativa_b": "Sinalizar o local do acidente",
+        "alternativa_c": "Verificar a segurança do local",
+        "alternativa_correta": "C",
+        "categoria": "Primeiros Socorros"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido Ultrapassar'?",
+        "alternativa_a": "Proíbe a ultrapassagem de veículos",
+        "alternativa_b": "Permite a ultrapassagem com cautela",
+        "alternativa_c": "Indica uma área de ultrapassagem permitida",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a principal função do triângulo de segurança?",
+        "alternativa_a": "Sinalizar o veículo em caso de pane ou acidente",
+        "alternativa_b": "Indicar o local de estacionamento",
+        "alternativa_c": "Avisar sobre obras na pista",
+        "alternativa_correta": "A",
+        "categoria": "Segurança"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Pista irregular'?",
+        "alternativa_a": "Pista em bom estado",
+        "alternativa_b": "Pista com buracos ou ondulações",
+        "alternativa_c": "Pista escorregadia",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao encontrar um animal na pista?",
+        "alternativa_a": "Buzinar e acelerar para assustar o animal",
+        "alternativa_b": "Reduzir a velocidade e desviar com cuidado",
+        "alternativa_c": "Ignorar e continuar na mesma velocidade",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Cruzamento de ferrovia'?",
+        "alternativa_a": "Indica a presença de uma ferrovia próxima",
+        "alternativa_b": "Proíbe a travessia de trens",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a distância mínima que deve ser mantida do veículo da frente?",
+        "alternativa_a": "2 segundos",
+        "alternativa_b": "5 segundos",
+        "alternativa_c": "10 segundos",
+        "alternativa_correta": "A",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Sentido proibido'?",
+        "alternativa_a": "Proíbe a entrada de veículos",
+        "alternativa_b": "Indica uma via de mão única",
+        "alternativa_c": "Permite a entrada de veículos",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta em caso de aquaplanagem?",
+        "alternativa_a": "Frear bruscamente",
+        "alternativa_b": "Manter a calma e reduzir a velocidade gradualmente",
+        "alternativa_c": "Acelerar para sair da água",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Parada obrigatória'?",
+        "alternativa_a": "Reduzir a velocidade e seguir",
+        "alternativa_b": "Parar completamente o veículo",
+        "alternativa_c": "Acelerar rapidamente",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo de emergência com sirenes ligadas?",
+        "alternativa_a": "Manter a velocidade e não mudar de faixa",
+        "alternativa_b": "Reduzir a velocidade e dar passagem",
+        "alternativa_c": "Acelerar para sair do caminho",
+        "alternativa_correta": "B",
+        "categoria": "Veículos de Emergência"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Mão dupla'?",
+        "alternativa_a": "Tráfego em ambos os sentidos",
+        "alternativa_b": "Tráfego em um único sentido",
+        "alternativa_c": "Proibido tráfego em ambos os sentidos",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta em caso de neblina intensa?",
+        "alternativa_a": "Usar faróis altos",
+        "alternativa_b": "Reduzir a velocidade e usar faróis baixos",
+        "alternativa_c": "Desligar os faróis",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Pedestre na pista'?",
+        "alternativa_a": "Indica a presença de pedestres na via",
+        "alternativa_b": "Proíbe a passagem de pedestres",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao transportar carga no veículo?",
+        "alternativa_a": "Exceder o limite de peso do veículo",
+        "alternativa_b": "Distribuir a carga de forma equilibrada",
+        "alternativa_c": "Deixar a carga solta no veículo",
+        "alternativa_correta": "B",
+        "categoria": "Transporte de Cargas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Velocidade máxima permitida'?",
+        "alternativa_a": "Indica a velocidade mínima permitida",
+        "alternativa_b": "Indica a velocidade máxima permitida",
+        "alternativa_c": "Indica a velocidade recomendada",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta em caso de pane seca (falta de combustível)?",
+        "alternativa_a": "Empurrar o veículo para o acostamento",
+        "alternativa_b": "Deixar o veículo na pista e sair",
+        "alternativa_c": "Sinalizar e chamar socorro",
+        "alternativa_correta": "A",
+        "categoria": "Emergências"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Cuidado com animais na pista'?",
+        "alternativa_a": "Indica a presença de animais selvagens",
+        "alternativa_b": "Proíbe a passagem de animais",
+        "alternativa_c": "Indica uma área de proteção ambiental",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir sob chuva intensa?",
+        "alternativa_a": "Aumentar a velocidade para sair da chuva",
+        "alternativa_b": "Reduzir a velocidade e ligar o limpador de para-brisa",
+        "alternativa_c": "Manter a velocidade normal",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Declive acentuado'?",
+        "alternativa_a": "Indica uma subida íngreme",
+        "alternativa_b": "Indica uma descida íngreme",
+        "alternativa_c": "Indica uma curva perigosa",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao encontrar um ciclista na via?",
+        "alternativa_a": "Ultrapassar o ciclista sem manter distância",
+        "alternativa_b": "Manter distância segura e ultrapassar com cuidado",
+        "alternativa_c": "Buzinar para o ciclista sair da frente",
+        "alternativa_correta": "B",
+        "categoria": "Ciclistas"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Pare e siga'?",
+        "alternativa_a": "Parar e seguir apenas se não houver outros veículos",
+        "alternativa_b": "Parar completamente e seguir quando for seguro",
+        "alternativa_c": "Reduzir a velocidade e seguir sem parar",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta em caso de incêndio no veículo?",
+        "alternativa_a": "Jogar água no motor",
+        "alternativa_b": "Usar o extintor de incêndio, se possível",
+        "alternativa_c": "Abrir o capô para ventilar",
+        "alternativa_correta": "B",
+        "categoria": "Emergências"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Trânsito proibido'?",
+        "alternativa_a": "Proíbe a entrada de veículos",
+        "alternativa_b": "Permite a entrada de veículos",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma rodovia com neblina?",
+        "alternativa_a": "Usar faróis altos e manter a velocidade",
+        "alternativa_b": "Reduzir a velocidade e usar faróis baixos",
+        "alternativa_c": "Desligar os faróis para não refletir a neblina",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Cruzamento de ciclistas'?",
+        "alternativa_a": "Indica uma área de ciclovia",
+        "alternativa_b": "Indica a presença de ciclistas cruzando a via",
+        "alternativa_c": "Proíbe a passagem de ciclistas",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um buraco na pista?",
+        "alternativa_a": "Frear bruscamente",
+        "alternativa_b": "Desviar com cuidado, se possível",
+        "alternativa_c": "Ignorar e continuar na mesma velocidade",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Área escolar'?",
+        "alternativa_a": "Indica uma área com crianças e pedestres",
+        "alternativa_b": "Indica uma área de estacionamento",
+        "alternativa_c": "Indica uma área de trânsito proibido",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao transportar animais no veículo?",
+        "alternativa_a": "Deixar o animal solto no banco traseiro",
+        "alternativa_b": "Usar caixa de transporte ou cinto de segurança específico",
+        "alternativa_c": "Transportar o animal no colo do motorista",
+        "alternativa_correta": "B",
+        "categoria": "Transporte de Animais"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido virar à direita'?",
+        "alternativa_a": "Proíbe a conversão à direita",
+        "alternativa_b": "Permite a conversão à direita",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta em caso de falha nos freios?",
+        "alternativa_a": "Puxar o freio de mão bruscamente",
+        "alternativa_b": "Reduzir as marchas e usar o freio motor",
+        "alternativa_c": "Desligar o motor imediatamente",
+        "alternativa_correta": "B",
+        "categoria": "Emergências"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido estacionar'?",
+        "alternativa_a": "Permite estacionar por até 15 minutos",
+        "alternativa_b": "Proíbe estacionar em qualquer horário",
+        "alternativa_c": "Indica uma área de estacionamento gratuito",
+        "alternativa_correta": "B",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma estrada com vento forte?",
+        "alternativa_a": "Aumentar a velocidade para manter o controle",
+        "alternativa_b": "Reduzir a velocidade e segurar o volante com firmeza",
+        "alternativa_c": "Manter a velocidade normal",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Cuidado com pedestres'?",
+        "alternativa_a": "Indica a presença de pedestres na via",
+        "alternativa_b": "Proíbe a passagem de pedestres",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo parado no acostamento?",
+        "alternativa_a": "Reduzir a velocidade e mudar de faixa, se possível",
+        "alternativa_b": "Manter a velocidade e ignorar o veículo",
+        "alternativa_c": "Parar atrás do veículo para ajudar",
+        "alternativa_correta": "A",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido buzinar'?",
+        "alternativa_a": "Proíbe o uso da buzina",
+        "alternativa_b": "Permite o uso da buzina apenas durante o dia",
+        "alternativa_c": "Indica uma área de trânsito livre",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta em caso de colisão sem vítimas?",
+        "alternativa_a": "Deixar o local imediatamente",
+        "alternativa_b": "Sinalizar o local e trocar informações com o outro condutor",
+        "alternativa_c": "Chamar a polícia e não mover os veículos",
+        "alternativa_correta": "B",
+        "categoria": "Emergências"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido retornar à esquerda'?",
+        "alternativa_a": "Proíbe a conversão à esquerda",
+        "alternativa_b": "Permite a conversão à esquerda",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com obras?",
+        "alternativa_a": "Acelerar para passar rapidamente",
+        "alternativa_b": "Reduzir a velocidade e obedecer à sinalização",
+        "alternativa_c": "Ignorar a sinalização e seguir normalmente",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de caminhões'?",
+        "alternativa_a": "Proíbe a circulação de caminhões",
+        "alternativa_b": "Permite a circulação de caminhões apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para caminhões",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo de emergência com sirenes ligadas?",
+        "alternativa_a": "Manter a velocidade e não mudar de faixa",
+        "alternativa_b": "Reduzir a velocidade e dar passagem",
+        "alternativa_c": "Acelerar para sair do caminho",
+        "alternativa_correta": "B",
+        "categoria": "Veículos de Emergência"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de ônibus'?",
+        "alternativa_a": "Proíbe a circulação de ônibus",
+        "alternativa_b": "Permite a circulação de ônibus apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para ônibus",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com neblina intensa?",
+        "alternativa_a": "Usar faróis altos e manter a velocidade",
+        "alternativa_b": "Reduzir a velocidade e usar faróis baixos",
+        "alternativa_c": "Desligar os faróis para não refletir a neblina",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de motocicletas'?",
+        "alternativa_a": "Proíbe a circulação de motocicletas",
+        "alternativa_b": "Permite a circulação de motocicletas apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para motocicletas",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo parado no acostamento?",
+        "alternativa_a": "Reduzir a velocidade e mudar de faixa, se possível",
+        "alternativa_b": "Manter a velocidade e ignorar o veículo",
+        "alternativa_c": "Parar atrás do veículo para ajudar",
+        "alternativa_correta": "A",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de bicicletas'?",
+        "alternativa_a": "Proíbe a circulação de bicicletas",
+        "alternativa_b": "Permite a circulação de bicicletas apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para bicicletas",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com obras?",
+        "alternativa_a": "Acelerar para passar rapidamente",
+        "alternativa_b": "Reduzir a velocidade e obedecer à sinalização",
+        "alternativa_c": "Ignorar a sinalização e seguir normalmente",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de veículos de tração animal'?",
+        "alternativa_a": "Proíbe a circulação de veículos de tração animal",
+        "alternativa_b": "Permite a circulação de veículos de tração animal apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de tração animal",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo de emergência com sirenes ligadas?",
+        "alternativa_a": "Manter a velocidade e não mudar de faixa",
+        "alternativa_b": "Reduzir a velocidade e dar passagem",
+        "alternativa_c": "Acelerar para sair do caminho",
+        "alternativa_correta": "B",
+        "categoria": "Veículos de Emergência"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de veículos de carga'?",
+        "alternativa_a": "Proíbe a circulação de veículos de carga",
+        "alternativa_b": "Permite a circulação de veículos de carga apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de carga",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com neblina intensa?",
+        "alternativa_a": "Usar faróis altos e manter a velocidade",
+        "alternativa_b": "Reduzir a velocidade e usar faróis baixos",
+        "alternativa_c": "Desligar os faróis para não refletir a neblina",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de veículos de tração animal'?",
+        "alternativa_a": "Proíbe a circulação de veículos de tração animal",
+        "alternativa_b": "Permite a circulação de veículos de tração animal apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de tração animal",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo parado no acostamento?",
+        "alternativa_a": "Reduzir a velocidade e mudar de faixa, se possível",
+        "alternativa_b": "Manter a velocidade e ignorar o veículo",
+        "alternativa_c": "Parar atrás do veículo para ajudar",
+        "alternativa_correta": "A",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de veículos de carga'?",
+        "alternativa_a": "Proíbe a circulação de veículos de carga",
+        "alternativa_b": "Permite a circulação de veículos de carga apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de carga",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com obras?",
+        "alternativa_a": "Acelerar para passar rapidamente",
+        "alternativa_b": "Reduzir a velocidade e obedecer à sinalização",
+        "alternativa_c": "Ignorar a sinalização e seguir normalmente",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de veículos de tração animal'?",
+        "alternativa_a": "Proíbe a circulação de veículos de tração animal",
+        "alternativa_b": "Permite a circulação de veículos de tração animal apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de tração animal",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo de emergência com sirenes ligadas?",
+        "alternativa_a": "Manter a velocidade e não mudar de faixa",
+        "alternativa_b": "Reduzir a velocidade e dar passagem",
+        "alternativa_c": "Acelerar para sair do caminho",
+        "alternativa_correta": "B",
+        "categoria": "Veículos de Emergência"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de veículos de carga'?",
+        "alternativa_a": "Proíbe a circulação de veículos de carga",
+        "alternativa_b": "Permite a circulação de veículos de carga apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de carga",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com neblina intensa?",
+        "alternativa_a": "Usar faróis altos e manter a velocidade",
+        "alternativa_b": "Reduzir a velocidade e usar faróis baixos",
+        "alternativa_c": "Desligar os faróis para não refletir a neblina",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de veículos de tração animal'?",
+        "alternativa_a": "Proíbe a circulação de veículos de tração animal",
+        "alternativa_b": "Permite a circulação de veículos de tração animal apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de tração animal",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo de emergência com sirenes ligadas?",
+        "alternativa_a": "Manter a velocidade e não mudar de faixa",
+        "alternativa_b": "Reduzir a velocidade e dar passagem",
+        "alternativa_c": "Acelerar para sair do caminho",
+        "alternativa_correta": "B",
+        "categoria": "Veículos de Emergência"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de veículos de carga'?",
+        "alternativa_a": "Proíbe a circulação de veículos de carga",
+        "alternativa_b": "Permite a circulação de veículos de carga apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de carga",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com neblina intensa?",
+        "alternativa_a": "Usar faróis altos e manter a velocidade",
+        "alternativa_b": "Reduzir a velocidade e usar faróis baixos",
+        "alternativa_c": "Desligar os faróis para não refletir a neblina",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de veículos de tração animal'?",
+        "alternativa_a": "Proíbe a circulação de veículos de tração animal",
+        "alternativa_b": "Permite a circulação de veículos de tração animal apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de tração animal",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo parado no acostamento?",
+        "alternativa_a": "Reduzir a velocidade e mudar de faixa, se possível",
+        "alternativa_b": "Manter a velocidade e ignorar o veículo",
+        "alternativa_c": "Parar atrás do veículo para ajudar",
+        "alternativa_correta": "A",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de veículos de carga'?",
+        "alternativa_a": "Proíbe a circulação de veículos de carga",
+        "alternativa_b": "Permite a circulação de veículos de carga apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de carga",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com obras?",
+        "alternativa_a": "Acelerar para passar rapidamente",
+        "alternativa_b": "Reduzir a velocidade e obedecer à sinalização",
+        "alternativa_c": "Ignorar a sinalização e seguir normalmente",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de veículos de tração animal'?",
+        "alternativa_a": "Proíbe a circulação de veículos de tração animal",
+        "alternativa_b": "Permite a circulação de veículos de tração animal apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de tração animal",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo de emergência com sirenes ligadas?",
+        "alternativa_a": "Manter a velocidade e não mudar de faixa",
+        "alternativa_b": "Reduzir a velocidade e dar passagem",
+        "alternativa_c": "Acelerar para sair do caminho",
+        "alternativa_correta": "B",
+        "categoria": "Veículos de Emergência"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de veículos de carga'?",
+        "alternativa_a": "Proíbe a circulação de veículos de carga",
+        "alternativa_b": "Permite a circulação de veículos de carga apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de carga",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com neblina intensa?",
+        "alternativa_a": "Usar faróis altos e manter a velocidade",
+        "alternativa_b": "Reduzir a velocidade e usar faróis baixos",
+        "alternativa_c": "Desligar os faróis para não refletir a neblina",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de veículos de tração animal'?",
+        "alternativa_a": "Proíbe a circulação de veículos de tração animal",
+        "alternativa_b": "Permite a circulação de veículos de tração animal apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de tração animal",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo parado no acostamento?",
+        "alternativa_a": "Reduzir a velocidade e mudar de faixa, se possível",
+        "alternativa_b": "Manter a velocidade e ignorar o veículo",
+        "alternativa_c": "Parar atrás do veículo para ajudar",
+        "alternativa_correta": "A",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de veículos de carga'?",
+        "alternativa_a": "Proíbe a circulação de veículos de carga",
+        "alternativa_b": "Permite a circulação de veículos de carga apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de carga",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com obras?",
+        "alternativa_a": "Acelerar para passar rapidamente",
+        "alternativa_b": "Reduzir a velocidade e obedecer à sinalização",
+        "alternativa_c": "Ignorar a sinalização e seguir normalmente",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de veículos de tração animal'?",
+        "alternativa_a": "Proíbe a circulação de veículos de tração animal",
+        "alternativa_b": "Permite a circulação de veículos de tração animal apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de tração animal",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao avistar um veículo de emergência com sirenes ligadas?",
+        "alternativa_a": "Manter a velocidade e não mudar de faixa",
+        "alternativa_b": "Reduzir a velocidade e dar passagem",
+        "alternativa_c": "Acelerar para sair do caminho",
+        "alternativa_correta": "B",
+        "categoria": "Veículos de Emergência"
+    },
+    {
+        "pergunta": "O que significa a placa de 'Proibido trânsito de veículos de carga'?",
+        "alternativa_a": "Proíbe a circulação de veículos de carga",
+        "alternativa_b": "Permite a circulação de veículos de carga apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para veículos de carga",
+        "alternativa_correta": "A",
+        "categoria": "Sinalização"
+    },
+    {
+        "pergunta": "Qual é a ação correta ao dirigir em uma via com neblina intensa?",
+        "alternativa_a": "Usar faróis altos e manter a velocidade",
+        "alternativa_b": "Reduzir a velocidade e usar faróis baixos",
+        "alternativa_c": "Desligar os faróis para não refletir a neblina",
+        "alternativa_correta": "B",
+        "categoria": "Direção Defensiva"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Pare'?",
+        "alternativa_a": "Reduzir a velocidade e seguir",
+        "alternativa_b": "Parar completamente o veículo",
+        "alternativa_c": "Acelerar rapidamente",
+        "alternativa_correta": "B",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Dê a preferência'?",
+        "alternativa_a": "O condutor deve parar completamente",
+        "alternativa_b": "O condutor deve ceder a passagem",
+        "alternativa_c": "O condutor pode seguir sem parar",
+        "alternativa_correta": "B",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido estacionar'?",
+        "alternativa_a": "Pode estacionar por até 15 minutos",
+        "alternativa_b": "Não pode estacionar em nenhum momento",
+        "alternativa_c": "Pode estacionar apenas à noite",
+        "alternativa_correta": "B",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Sentido proibido'?",
+        "alternativa_a": "Proíbe a entrada de veículos",
+        "alternativa_b": "Indica uma via de mão única",
+        "alternativa_c": "Permite a entrada de veículos",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Velocidade máxima permitida'?",
+        "alternativa_a": "Indica a velocidade mínima permitida",
+        "alternativa_b": "Indica a velocidade máxima permitida",
+        "alternativa_c": "Indica a velocidade recomendada",
+        "alternativa_correta": "B",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Curva à direita'?",
+        "alternativa_a": "Indica uma curva acentuada à direita",
+        "alternativa_b": "Indica uma curva suave à direita",
+        "alternativa_c": "Indica uma curva em S à direita",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Cruzamento de ferrovia'?",
+        "alternativa_a": "Indica a presença de uma ferrovia próxima",
+        "alternativa_b": "Proíbe a travessia de trens",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Proibido ultrapassar'?",
+        "alternativa_a": "Proíbe a ultrapassagem de veículos",
+        "alternativa_b": "Permite a ultrapassagem com cautela",
+        "alternativa_c": "Indica uma área de ultrapassagem permitida",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Pista irregular'?",
+        "alternativa_a": "Pista em bom estado",
+        "alternativa_b": "Pista com buracos ou ondulações",
+        "alternativa_c": "Pista escorregadia",
+        "alternativa_correta": "B",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Área escolar'?",
+        "alternativa_a": "Indica uma área com crianças e pedestres",
+        "alternativa_b": "Indica uma área de estacionamento",
+        "alternativa_c": "Indica uma área de trânsito proibido",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Cuidado com animais na pista'?",
+        "alternativa_a": "Indica a presença de animais selvagens",
+        "alternativa_b": "Proíbe a passagem de animais",
+        "alternativa_c": "Indica uma área de proteção ambiental",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Proibido virar à esquerda'?",
+        "alternativa_a": "Proíbe a conversão à esquerda",
+        "alternativa_b": "Permite a conversão à esquerda",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Declive acentuado'?",
+        "alternativa_a": "Indica uma subida íngreme",
+        "alternativa_b": "Indica uma descida íngreme",
+        "alternativa_c": "Indica uma curva perigosa",
+        "alternativa_correta": "B",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Mão dupla'?",
+        "alternativa_a": "Tráfego em ambos os sentidos",
+        "alternativa_b": "Tráfego em um único sentido",
+        "alternativa_c": "Proibido tráfego em ambos os sentidos",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Cruzamento de ciclistas'?",
+        "alternativa_a": "Indica uma área de ciclovia",
+        "alternativa_b": "Indica a presença de ciclistas cruzando a via",
+        "alternativa_c": "Proíbe a passagem de ciclistas",
+        "alternativa_correta": "B",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Proibido buzinar'?",
+        "alternativa_a": "Proíbe o uso da buzina",
+        "alternativa_b": "Permite o uso da buzina apenas durante o dia",
+        "alternativa_c": "Indica uma área de trânsito livre",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Pedestre na pista'?",
+        "alternativa_a": "Indica a presença de pedestres na via",
+        "alternativa_b": "Proíbe a passagem de pedestres",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Proibido retornar à direita'?",
+        "alternativa_a": "Proíbe a conversão à direita",
+        "alternativa_b": "Permite a conversão à direita",
+        "alternativa_c": "Indica uma área de estacionamento",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que indica uma placa de 'Proibido trânsito de caminhões'?",
+        "alternativa_a": "Proíbe a circulação de caminhões",
+        "alternativa_b": "Permite a circulação de caminhões apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para caminhões",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "O que significa uma placa de 'Proibido trânsito de ônibus'?",
+        "alternativa_a": "Proíbe a circulação de ônibus",
+        "alternativa_b": "Permite a circulação de ônibus apenas durante o dia",
+        "alternativa_c": "Indica uma área de estacionamento para ônibus",
+        "alternativa_correta": "A",
+        "categoria": "Placas"
+    },
+    {
+        "pergunta": "Qual é a principal responsabilidade de um cidadão no trânsito?",
+        "alternativa_a": "Respeitar as leis de trânsito",
+        "alternativa_b": "Dirigir o mais rápido possível",
+        "alternativa_c": "Ignorar a sinalização",
+        "alternativa_correta": "A",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "O que significa ser um cidadão consciente no trânsito?",
+        "alternativa_a": "Respeitar pedestres e outros motoristas",
+        "alternativa_b": "Dirigir de forma agressiva",
+        "alternativa_c": "Ignorar as faixas de pedestres",
+        "alternativa_correta": "A",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Qual é a importância de usar o cinto de segurança?",
+        "alternativa_a": "Evitar multas",
+        "alternativa_b": "Proteger a vida em caso de acidentes",
+        "alternativa_c": "Melhorar a velocidade do veículo",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Por que é importante respeitar os limites de velocidade?",
+        "alternativa_a": "Para evitar multas",
+        "alternativa_b": "Para garantir a segurança de todos",
+        "alternativa_c": "Para chegar mais rápido ao destino",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "O que deve fazer um motorista ao avistar uma faixa de pedestres?",
+        "alternativa_a": "Acelerar para passar rapidamente",
+        "alternativa_b": "Reduzir a velocidade e dar preferência aos pedestres",
+        "alternativa_c": "Ignorar a faixa e continuar dirigindo",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Qual é a atitude correta ao dirigir sob chuva forte?",
+        "alternativa_a": "Aumentar a velocidade para sair da chuva",
+        "alternativa_b": "Reduzir a velocidade e ligar o limpador de para-brisa",
+        "alternativa_c": "Manter a velocidade normal",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Por que é importante não dirigir sob efeito de álcool?",
+        "alternativa_a": "Para evitar multas",
+        "alternativa_b": "Para garantir a segurança de todos",
+        "alternativa_c": "Para economizar combustível",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "O que significa ceder a passagem no trânsito?",
+        "alternativa_a": "Acelerar para passar primeiro",
+        "alternativa_b": "Dar preferência a outros veículos ou pedestres",
+        "alternativa_c": "Ignorar a sinalização",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Qual é a importância de usar cadeirinhas para crianças no carro?",
+        "alternativa_a": "Evitar multas",
+        "alternativa_b": "Garantir a segurança das crianças",
+        "alternativa_c": "Melhorar o desempenho do veículo",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "O que deve fazer um motorista ao ouvir a sirene de um veículo de emergência?",
+        "alternativa_a": "Manter a velocidade e não mudar de faixa",
+        "alternativa_b": "Reduzir a velocidade e dar passagem",
+        "alternativa_c": "Acelerar para sair do caminho",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Por que é importante não usar o celular ao volante?",
+        "alternativa_a": "Para evitar multas",
+        "alternativa_b": "Para garantir a segurança no trânsito",
+        "alternativa_c": "Para economizar bateria do celular",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "O que significa ser um pedestre consciente no trânsito?",
+        "alternativa_a": "Atravessar a rua em qualquer lugar",
+        "alternativa_b": "Respeitar a sinalização e usar as faixas de pedestres",
+        "alternativa_c": "Ignorar os semáforos",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Qual é a importância de manter uma distância segura do veículo da frente?",
+        "alternativa_a": "Para evitar multas",
+        "alternativa_b": "Para garantir a segurança em caso de freadas bruscas",
+        "alternativa_c": "Para economizar combustível",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "O que deve fazer um motorista ao avistar um acidente de trânsito?",
+        "alternativa_a": "Parar e prestar socorro, se possível",
+        "alternativa_b": "Ignorar o acidente e seguir viagem",
+        "alternativa_c": "Acelerar para passar rapidamente",
+        "alternativa_correta": "A",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Por que é importante respeitar os ciclistas no trânsito?",
+        "alternativa_a": "Para evitar multas",
+        "alternativa_b": "Para garantir a segurança de todos",
+        "alternativa_c": "Para economizar combustível",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "O que significa ser um cidadão responsável no trânsito?",
+        "alternativa_a": "Respeitar as leis e os outros usuários da via",
+        "alternativa_b": "Dirigir de forma agressiva",
+        "alternativa_c": "Ignorar a sinalização",
+        "alternativa_correta": "A",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Qual é a importância de usar faróis baixos em vias urbanas?",
+        "alternativa_a": "Para evitar multas",
+        "alternativa_b": "Para garantir a visibilidade sem prejudicar outros motoristas",
+        "alternativa_c": "Para economizar energia",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "O que deve fazer um motorista ao avistar um animal na pista?",
+        "alternativa_a": "Buzinar e acelerar para assustar o animal",
+        "alternativa_b": "Reduzir a velocidade e desviar com cuidado",
+        "alternativa_c": "Ignorar o animal e continuar na mesma velocidade",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "Por que é importante não estacionar em vagas reservadas para idosos ou pessoas com deficiência?",
+        "alternativa_a": "Para evitar multas",
+        "alternativa_b": "Para garantir o acesso a quem realmente precisa",
+        "alternativa_c": "Para economizar combustível",
+        "alternativa_correta": "B",
+        "categoria": "Cidadania"
+    },
+    {
+        "pergunta": "O que significa ser um cidadão educado no trânsito?",
+        "alternativa_a": "Respeitar os outros e evitar conflitos",
+        "alternativa_b": "Dirigir de forma agressiva",
+        "alternativa_c": "Ignorar as leis de trânsito",
+        "alternativa_correta": "A",
+        "categoria": "Cidadania"
+    }
+]
